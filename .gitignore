@@ -1,6 +1,14 @@
 *.class
+*.iml
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+out
+bin
+
+.idea
+.settings
+
